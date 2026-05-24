@@ -1,0 +1,16 @@
+h1{ 
+    color:rgb(200,200,0);
+}
+h2{
+    color:rgb(0,200,200);
+}
+p{
+    color:rgb(100,0,100);
+}
+button{
+    color:rgb(242, 136, 30);
+    background-color:rgb(20, 188, 174);
+}
+body{
+    background-color:rgb(223, 221, 220);
+}
